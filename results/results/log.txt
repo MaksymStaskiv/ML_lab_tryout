@@ -1,0 +1,20 @@
+10-18 20:55:50 Evaluating JensenShannon divergences on validation set on all saved epochs.
+10-18 20:55:50 Testing epochs: [5]
+10-18 20:55:50 Device variable: cuda
+10-18 20:55:50 Current CUDA device: 0
+10-18 20:55:52 Selected all classes. Loaded 2870 samples.
+10-18 20:56:24 Evaluating JensenShannon divergences on validation set on all saved epochs.
+10-18 20:56:24 Testing epochs: [5]
+10-18 20:56:24 Device variable: cuda
+10-18 20:56:24 Current CUDA device: 0
+10-18 20:56:27 Selected all classes. Loaded 2870 samples.
+10-18 20:59:42 Epoch: 5 JSD:  0.754338 Time: 0:03:12.636449
+10-18 20:59:42 Minimum JSD at epoch 5:  0.754338
+10-18 21:24:25 Evaluating JensenShannon divergences on validation set on all saved epochs.
+10-18 21:24:25 Testing epochs: [5, 10]
+10-18 21:24:25 Device variable: cuda
+10-18 21:24:25 Current CUDA device: 0
+10-18 21:24:26 Selected all classes. Loaded 2870 samples.
+10-18 21:27:57 Epoch: 10 JSD:  0.675329 Time: 0:03:28.233655
+10-18 21:31:11 Epoch: 5 JSD:  0.754338 Time: 0:03:13.951876
+10-18 21:31:11 Minimum JSD at epoch 10:  0.675329
